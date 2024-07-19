@@ -25,6 +25,7 @@ Before running the application, you need to configure the SMTP settings and the 
 
 ## File Structure
 
+```bash
 multiple-email-social-report/
 │
 ├── app.py
@@ -32,7 +33,7 @@ multiple-email-social-report/
 ├── templates/
 │   └── index.html
 └── README.md
-
+```
 ### Running the Application
 Start the Flask application:
 
