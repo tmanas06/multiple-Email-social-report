@@ -32,7 +32,9 @@ multiple-email-social-report/
 ├── config.ini
 ├── templates/
 │   └── index.html
-└── README.md
+├── README.md
+├── requirements.txt
+└── .csv file
 ```
 ### Running the Application
 Start the Flask application:
